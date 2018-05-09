@@ -1,0 +1,14 @@
+{
+    "name": "amaludinrizqi/stok-app",
+    "type": "project",
+    "authors" : [
+        {
+            "name": "rizqi1276",
+            "email": "rizqiymcibbs@gmail.com",
+            "role": "programmer"
+        }
+    ],
+    "require":{
+        "phpunit/phpunit":"^6.5"
+    }
+}
