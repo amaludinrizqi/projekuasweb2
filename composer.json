@@ -1,14 +1,15 @@
 {
-    "name": "amaludinrizqi/stok-app",
+    "name": "amaludinrizqi/mahasiswa",
     "type": "project",
     "authors" : [
         {
-            "name": "rizqi1276",
+            "name": "amaludin rizqi",
             "email": "rizqiymcibbs@gmail.com",
             "role": "programmer"
         }
     ],
     "require":{
         "phpunit/phpunit":"^6.5"
-    }
+    },
+    "description": "Tugas uas semester 4"
 }
